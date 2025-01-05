@@ -1,0 +1,14 @@
+= Server Sent Event Demo with Spring Boot
+
+Initial example taken from:
+
+https://medium.com/@AlexanderObregon/implementing-server-sent-events-sse-with-spring-cbf283171aef
+
+== Usage
+
+- start spring boot application
+- point browser to http://localhost:8080
+
+You should see an increasing list of timestamps.
+Also watch the browsers network tab to inspect the events coming in from the server
+
